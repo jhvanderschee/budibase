@@ -1,6 +1,6 @@
 AuthType Basic
 AuthName "Password required"
-AuthUserFile .htpasswd
+AuthUserFile /home/budibase/public_html/.htpasswd
 require valid-user
 
 
