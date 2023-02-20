@@ -3,5 +3,4 @@ AuthName "Password required"
 AuthUserFile /home/budibase/public_html/.htpasswd
 require valid-user
 
-
 Header set X-Robots-Tag "noindex, nofollow"
